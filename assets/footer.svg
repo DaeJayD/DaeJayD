@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="105" viewBox="0 0 1280 105">
+  <title>Build. Test. Refine.</title>
+  <path d="M0 40c200-40 370 25 650-2S1070 15 1280 39" fill="none" stroke="#d8b56a" stroke-opacity=".4"/>
+  <path d="m640 28 7 10-7 10-7-10Z" fill="#b7294b"/>
+  <text x="640" y="85" text-anchor="middle" fill="#b69b70" font-family="Verdana,Arial,sans-serif" font-size="13" letter-spacing="5">BUILD. TEST. REFINE.</text>
+</svg>
