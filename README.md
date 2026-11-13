@@ -33,20 +33,6 @@ The latest **V4B.2 development work** improves lifecycle recovery on the [develo
 
 <sub>FLUTTER · DART · KOTLIN &nbsp; / &nbsp; V4 IN DEVELOPMENT</sub>
 
-### [Interactive Living Résumé ↗](https://github.com/DaeJayD/interactive-resume)
-
-A reusable résumé with **spring-based paper motion, contextual project previews, keyboard navigation, and A4 printing**. Its owner dashboard supports private media, draft editing, publishing, version restore, and JSON backup.
-
-Hosted backend checks passed with temporary test accounts. The [public résumé](https://daejayd-resume.vercel.app/) is live; production owner setup is still pending for the dashboard.
-
-<sub>NEXT.JS · REACT · TYPESCRIPT · SUPABASE &nbsp; / &nbsp; LIVE RÉSUMÉ · DASHBOARD SETUP PENDING</sub>
-
-### [Dad’s Life Lessons ↗](https://dadslifelessons.vercel.app/)
-
-A responsive book website with **interactive 3D book previews, a lessons page, and a layered author section**. Recent work refined the book framing, mobile layouts, and reduced-motion behavior. The production build and 23 browser checks passed before deployment.
-
-<sub>VITE · INTERACTIVE WEB DESIGN &nbsp; / &nbsp; LIVE WEBSITE</sub>
-
 ### <a href="https://dsportfolio-sigma.vercel.app"><img src="./assets/arcana-mark.svg" width="24" height="24" alt="" /> &nbsp;D' Arcana Archives ↗</a>
 
 My portfolio, where **tarot cards, pointer-reactive crimson fog, and interactive project pages** introduce the work behind the visuals. Custom WebGL shaders draw the background; Framer Motion and CSS bring the cards and transitions to life.
