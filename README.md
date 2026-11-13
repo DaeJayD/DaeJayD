@@ -19,21 +19,39 @@ I'm a **Computer Science student in Cagayan de Oro, Philippines**, building web 
 
 ### <a href="https://github.com/DaeJayD/FastPas-POS"><img src="./assets/fastpas-mark.svg" width="24" height="24" alt="" /> &nbsp;FastPas POS ↗</a>
 
-A mobile retail app bringing **sales, inventory, staff, and reporting** into one workflow. Currently improving its retail flows and backend structure.
+An **offline-first Android POS** for independent retail businesses, with business workspaces, branch permissions, inventory, cash checkout, saved receipts, partial returns, cashier shifts, and CSV reports. SQLite keeps pending sales on the device; Supabase handles authorized cloud synchronization and tenant isolation.
 
-<sub>FLUTTER · DART · SUPABASE &nbsp; / &nbsp; IN DEVELOPMENT</sub>
+Recent work covers **lost-reply recovery, concurrent returns, drawer reconciliation, and application-data restore checks**. Signed acceptance builds are verified; physical-device acceptance and production release setup remain open.
+
+<sub>FLUTTER · DART · SQLITE · SUPABASE · POSTGRESQL &nbsp; / &nbsp; RELEASE PREPARATION</sub>
 
 ### <a href="https://github.com/DaeJayD/Ryser-Alarm"><img src="./assets/ryser-mark.svg" width="24" height="24" alt="" /> &nbsp;Ryser Alarm ↗</a>
 
-An Android alarm app with **wake-up missions, follow-up checks, and local wake history**. Built with Flutter and native Kotlin alarm handling.
+An Android alarm app with **walking, jumping, and QR-code wake-up missions**, follow-up Wake Checks, and local wake history. Flutter provides the interface, while native Kotlin handles scheduling, playback, and reboot recovery. No account or server is required.
 
-<sub>FLUTTER · DART · KOTLIN &nbsp; / &nbsp; IN DEVELOPMENT</sub>
+The latest **V4B.2 development work** improves lifecycle recovery on the [development branch](https://github.com/DaeJayD/Ryser-Alarm/tree/feature/v4-experiments), with 208 Flutter tests passing and a verified test APK. Native-device acceptance and the remaining V4 work are still pending.
+
+<sub>FLUTTER · DART · KOTLIN &nbsp; / &nbsp; V4 IN DEVELOPMENT</sub>
+
+### [Interactive Living Résumé ↗](https://github.com/DaeJayD/interactive-resume)
+
+A reusable résumé with **spring-based paper motion, contextual project previews, keyboard navigation, and A4 printing**. Its owner dashboard supports private media, draft editing, publishing, version restore, and JSON backup.
+
+Hosted backend checks passed with temporary test accounts. The [public résumé](https://daejayd-resume.vercel.app/) is live; production owner setup is still pending for the dashboard.
+
+<sub>NEXT.JS · REACT · TYPESCRIPT · SUPABASE &nbsp; / &nbsp; LIVE RÉSUMÉ · DASHBOARD SETUP PENDING</sub>
+
+### [Dad’s Life Lessons ↗](https://dadslifelessons.vercel.app/)
+
+A responsive book website with **interactive 3D book previews, a lessons page, and a layered author section**. Recent work refined the book framing, mobile layouts, and reduced-motion behavior. The production build and 23 browser checks passed before deployment.
+
+<sub>VITE · INTERACTIVE WEB DESIGN &nbsp; / &nbsp; LIVE WEBSITE</sub>
 
 ### <a href="https://dsportfolio-sigma.vercel.app"><img src="./assets/arcana-mark.svg" width="24" height="24" alt="" /> &nbsp;D' Arcana Archives ↗</a>
 
-My portfolio, where **tarot cards, crimson fog, and interactive project pages** introduce the work behind the visuals.
+My portfolio, where **tarot cards, pointer-reactive crimson fog, and interactive project pages** introduce the work behind the visuals. Custom WebGL shaders draw the background; Framer Motion and CSS bring the cards and transitions to life.
 
-<sub>NEXT.JS · REACT · TYPESCRIPT &nbsp; / &nbsp; LIVE PORTFOLIO</sub>
+<sub>NEXT.JS · REACT · TYPESCRIPT · WEBGL &nbsp; / &nbsp; LIVE PORTFOLIO</sub>
 
 ## Stack
 
