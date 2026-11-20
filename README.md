@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Dae Jay — Fullstack Web and Mobile application development." />
+  <img src="./assets/header.svg" width="100%" alt="Dae Jay — Junior Full-Stack Web and Mobile Developer." />
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
   <a href="mailto:donos.daejay11@gmail.com?subject=Hello%20Dae%20Jay"><img src="./assets/email.svg" height="32" alt="Email Dae Jay" /></a>
 </p>
 
-I'm a **Computer Science student in Cagayan de Oro, Philippines**, building web and Android apps. My focus is Fullstack Web and Mobile application development: APIs, databases, and the interfaces that connect them to people.
+I'm a **Junior Full-Stack Web and Mobile Developer** and Computer Science student in Cagayan de Oro, Philippines. I build web and Android apps, from APIs and databases to responsive interfaces and mobile experiences.
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/about-static.png" />
